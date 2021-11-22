@@ -1,0 +1,72 @@
+header{
+  background-color: cornsilk;
+  color: Saddlebrown;
+  width: 1030px;
+  height: 40px;
+}
+footer{
+  background-color: burlywood;
+  color: Saddlebrown;
+  width: 1030px;
+  height: 60px;
+}
+body{
+  background-color: #000000;
+  color: #000000
+}
+#a1{
+  background-color: #f5deb3;
+  color: #a0522d;
+}
+#b1{
+  background-color: #d2b48c;
+}
+#c1{
+  background-color: #cd853f;
+  color: #f5deb3;
+}
+#d1{
+  background-color: #a0522d;
+}
+#a2{
+  background-color: #99ffff;
+  color: #0099ff
+}
+#b2{
+  background-color: #99ccff;
+}
+#c2{
+  background-color: #33ccff;
+  color: #99ffff;
+}
+#d2{
+  background-color: #0099ff;
+}
+#a3{
+  background-color: #98fb98;
+  color: #228b22;
+}
+#b3{
+  background-color: #adff2f;
+}
+#c3{
+  background-color: #00dd50;
+  color: #dddddd;
+}
+#d3{
+  background-color: #228b22;
+}
+#a4{
+  background-color: #ffd700;
+  color: #ff4500;
+}
+#b4{
+  background-color: #ffa500;
+}
+#c4{
+  background-color: #ff7f50;
+  color: #ffd700;
+}
+#d4{
+  background-color: #ff4500;
+}
